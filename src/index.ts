@@ -1,0 +1,1 @@
+export const SERVICE_NAME = 'teststpeter10-frontend';
